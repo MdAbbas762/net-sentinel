@@ -258,23 +258,6 @@ Forward Request to Backend
 
 ---
 
-# 📁 Project Structure
-
-```text
-network-firewall-security-simulator/
-│
-├── 📁 logs/
-│   └── firewall_logs.txt
-│
-├── 📁 src/
-│   ├── firewall_server.py
-│   ├── firewall_gui.py
-│   └── firewall_simulator.py
-│
-├── requirements.txt
-└── README.md
-```
-
 ### 📄 `firewall_server.py`
 
 The core firewall component responsible for:
